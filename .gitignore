@@ -1,0 +1,12 @@
+# Large dataset
+data/web-BerkStan.txt
+
+# Spark-generated output
+output/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment files
+.env
